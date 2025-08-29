@@ -25,7 +25,7 @@
 
 ## 📌 Projects  
 - 🛒 **E-Commerce Web Application** – Next.js, Tailwind CSS, MySQL *(In Progress)*  
-- 📚 **Course Management System** – Node.js, Express.js, MongoDB  
+- 📚 **Employee Management System** – Node.js, Express.js, MongoDB  
 - 🔑 **Authentication System** – Signup, Login, OTP Verification, Password Change (Node.js)  
 - 💳 **Recharge & Bill Payment App (B2B + P2P)** – React Native, Wallet system, FASTag, Electricity Bill  
 
