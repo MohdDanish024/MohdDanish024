@@ -32,11 +32,12 @@
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md0307121&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdDanish024&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md0307121&layout=compact&theme=tokyonight)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohdDanish024&theme=radical)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md0307121&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdDanish024&layout=compact&theme=radical)
+ 
 
 ---
 
